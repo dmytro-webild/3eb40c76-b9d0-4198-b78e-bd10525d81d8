@@ -16,7 +16,7 @@ export default function PricingSection(): React.JSX.Element {
           plans={[
             {
               tag: "Starter",
-              price: "$1,299",
+              price: "$499",
               description: "Perfect for new local service businesses.",
               features: [
                 "Mobile Responsive",
@@ -31,7 +31,7 @@ export default function PricingSection(): React.JSX.Element {
             },
             {
               tag: "Growth",
-              price: "$1,999",
+              price: "$999",
               description: "Ideal for established retail and trade.",
               features: [
                 "Advanced SEO",
@@ -48,7 +48,7 @@ export default function PricingSection(): React.JSX.Element {
             },
             {
               tag: "Pro",
-              price: "$3,999",
+              price: "$1,299",
               description: "Complete digital presence for teams.",
               features: [
                 "Full Ecommerce",
