@@ -17,7 +17,7 @@ export default function ServicesSection(): React.JSX.Element {
             {
               title: "Rapid Development",
               description: "High-quality, responsive sites delivered in days, not weeks.",
-              imageSrc: "http://img.b2bpic.net/free-photo/speed-meter-extreme-scale-fast_53876-120604.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3GKKiGEgn6dSjiwYQl6gdVyYK8s/tmp/create-a-very-simple-yet-sleek-timer-tha-1783717477917-87099d96.png",
             },
             {
               title: "SEO Optimized",
