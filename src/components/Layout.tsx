@@ -94,7 +94,7 @@ export default function Layout() {
           href: "#",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/woman-working-environment-projects_23-2148829255.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-working-environment-projects_23-2148829255.jpg?_wi=2"
     />
       </SectionErrorBoundary>
     </StyleProvider>

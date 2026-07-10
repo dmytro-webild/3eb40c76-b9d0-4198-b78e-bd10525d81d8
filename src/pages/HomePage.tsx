@@ -24,7 +24,7 @@ export default function HomePage() {
         text: "View Packages",
         href: "#pricing",
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/woman-working-environment-projects_23-2148829255.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-working-environment-projects_23-2148829255.jpg?_wi=1"
       textAnimation="slide-up"
     />
     </SectionErrorBoundary>
