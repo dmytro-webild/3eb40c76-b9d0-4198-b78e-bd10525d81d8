@@ -14,11 +14,11 @@ export default function ContactSection(): React.JSX.Element {
           text="Your business deserves an online home that converts. Let's talk about your goals today."
           primaryButton={{
             text: "Schedule Consultation",
-            href: "mailto:hello@wohlanddigital.com",
+            href: "wohlanddigital@gmail.com",
           }}
           secondaryButton={{
             text: "Email Us",
-            href: "mailto:hello@wohlanddigital.com",
+            href: "wohlanddigital@gmail.com",
           }}
           textAnimation="fade-blur"
         />

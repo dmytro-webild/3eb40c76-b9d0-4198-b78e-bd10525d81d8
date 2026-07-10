@@ -41,11 +41,11 @@ export default function FaqSection(): React.JSX.Element {
             },
           ]}
           cta={{
-            name: "Marcus Wohland",
-            role: "Lead Developer",
+            name: "Hunter Wohland",
+            role: "Founder",
             buttonText: "Chat with Us",
             buttonHref: "#contact",
-            imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-with-laptop_23-2149915909.jpg",
+            imageSrc: "https://storage.googleapis.com/webild/users/user_3GKKiGEgn6dSjiwYQl6gdVyYK8s/uploaded-1783716595793-ymo2yyry.png",
           }}
           textAnimation="slide-up"
           description="Description"
